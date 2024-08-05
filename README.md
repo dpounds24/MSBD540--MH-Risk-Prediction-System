@@ -20,5 +20,5 @@ This repository contains the predictive modeling project for identifying individ
 ## Installation
 To set up the project environment, follow these steps:
 ```bash
-git clone https://github.com/<link>
+git clone https://github.com/dpounds24/MSBD540--MH-Risk-Prediction-System.git
 pip install -r requirements.txt
