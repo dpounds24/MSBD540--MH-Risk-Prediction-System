@@ -5,7 +5,7 @@ Repository for Summer 2024 MSBD540 project - Mental Health Risk Prediction Syste
 This repository contains the predictive modeling project for identifying individuals at high risk of a mental health crisis using the SAMHSA Mental Health Client-Level Data (MH-CLD). The project utilizes machine learning techniques to provide actionable insights that enable healthcare providers to implement preventative measures effectively.
 
 ## Project Structure
-- `data/`: Directory containing sample datasets or links to access the SAMHSA MH-CLD (data must be compliant with privacy and usage guidelines).
+- `data/`: Directory containing sample datasets. The full SAMHSA MH-CLD dataset can be downloaded at https://www.samhsa.gov/data/data-we-collect/mh-cld-mental-health-client-level-data (data must be compliant with privacy and usage guidelines).
 - `src/`: Contains all the source code used for data preprocessing, model training, and evaluation.
   - `preprocess.py`: Script for data cleaning and preprocessing.
   - `train_model.py`: Script for training the predictive model.
