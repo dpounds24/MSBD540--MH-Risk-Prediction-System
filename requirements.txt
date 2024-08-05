@@ -1,0 +1,7 @@
+numpy==1.26.4
+pandas==2.1.4
+seaborn @ file:///Users/cbousseau/work/recipes/ci_py311/seaborn_1677961968762/work
+scikit-learn==1.5.0
+scipy==1.11.4
+matplotlib @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_21m9ylm_7k/croot/matplotlib-suite_1698692123710/work
+factor_analyzer==0.5.1
