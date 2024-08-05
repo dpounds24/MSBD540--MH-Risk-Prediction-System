@@ -12,7 +12,8 @@ This repository contains the predictive modeling project for identifying individ
   - `evaluate_model.py`: Script for evaluating the model against test data.
   - `risk_prediction.py`: Script for creating risk prediction reports.
 - `notebooks/`: Jupyter notebooks
-  - `Final_Code.ipynb`: Jupyter notebook containing the exploratory data analysis.
+  - `Final_Code.ipynb`: Jupyter notebook containing for Random Forest model.
+  - `Evaluating_Models.ipynb`: Jupyter notebook comparing Decision Tree, Random Forest, Logistic Regression, Gradient Boosting Regression and Artificial Neural Networks.
 - `docs/`: Documentation related to the project.
   - `Project_Report.pdf`: A comprehensive report summarizing the project's findings.
 - `requirements.txt`: A text file listing the project's dependencies.
